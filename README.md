@@ -1,2 +1,3 @@
-# portfolio.github.io
-## https://sanketghosh.github.io/portfolio.github.io/
+# My Portfolio Website
+
+### https://sanketghosh.github.io/portfolio/
